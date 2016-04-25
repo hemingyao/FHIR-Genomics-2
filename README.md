@@ -1,3 +1,5 @@
+The latest version of FHIR Genomics server can be found: https://github.com/bcl-lab/FHIR-Genomics_v2
+
 Reference API server of SMART Genomics
 
 ## How to use it
